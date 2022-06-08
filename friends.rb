@@ -1,5 +1,5 @@
 f2 = "Chase"
-f1 = "Paul"
+f1 = "Tyler"
 if f1 == "Paul"
   puts "Hello Paul"
 elsif f2 == "Chase"
